@@ -8,6 +8,10 @@
 *.so
 *.dylib
 
+# Other stuff to remove testing data
+*.astrodb
+
+
 # Test binary, built with `go test -c`
 *.test
 
