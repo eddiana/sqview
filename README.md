@@ -1,10 +1,10 @@
 # sqview
 
-A terminal-based SQLite table viewer built in Go using [Bubble Tea](https://github.com/charmbracelet/bubbletea).
+A terminal-based SQLite table viewer built in Go using [Bubble Tea](https://github.com/charmbracelet/bubbletea). Tested in Linux and Windows 11.
 
 Browse tables, run arbitrary SQL queries, and scroll through results — all from the command line.
 
-Coded using Qwen 3.7 Max
+Coded using Qwen 3.7 Max. 
 
 ## Features
 
@@ -41,7 +41,7 @@ Coded using Qwen 3.7 Max
 Requires [Go](https://go.dev/dl/) 1.23+.
 
 ```bash
-git clone https://github.com/yourusername/sqview.git
+git clone https://github.com/eddiana/sqview.git
 cd sqview
 go build -o sqview .
 ```
